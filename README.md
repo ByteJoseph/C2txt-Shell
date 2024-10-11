@@ -14,7 +14,7 @@ C2txt-Shell is a simple Bash script that compiles and runs C programs, captures 
 3. Navigate to the directory containing the script using the `cd` command.
 4. Run the script with the following command:
 ```bash
-bash C2txt-Shell.sh
+bash C2txtv3.sh
 ```
 5. The script will compile and run each C program in the input folder and generate a corresponding text file with your name, class, C code, inputs, and program output in the "output_folder" directory.
 
